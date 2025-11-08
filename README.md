@@ -1,1 +1,1 @@
-# The Gaminglounge Networks Wiki repository
+# The orangeCraft Networks Wiki repository
